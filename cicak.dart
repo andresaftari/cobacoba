@@ -1,3 +1,9 @@
 void main() {
   print('Fadil');
 }
+
+// COMMIT -> SAVE PERUBAHAN
+// PULL -> DOWNLOAD PERUBAHAN DI BRANCH TERPILIH
+// FETCH
+// PUSH
+// REBASE
